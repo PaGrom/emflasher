@@ -9,7 +9,9 @@ Dependencies:
 	sudo apt-get install python-serial
 
 
-usage: emflasher.py [-h] [-p PORT] [-b BAUDRATE] [-t TIMEOUT] [-bs BYTESIZE]
+usage: 
+
+		emflasher.py [-h] [-p PORT] [-b BAUDRATE] [-t TIMEOUT] [-bs BYTESIZE]
 
 					[-ia IPADDR] [-si SERVERIP] [-tf TFTP_FOLDER]
 
